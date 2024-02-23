@@ -14,7 +14,7 @@ https://thesparksfoundationglobalbank.netlify.app
 
 Tech Stacks Used :-
 
-Front End :-
+
 
     HTML
     CSS
